@@ -1,0 +1,28 @@
+.top-container {
+    margin-top: 100px;
+}
+
+.bottom-container {
+    margin-bottom: 150px;
+}
+
+.activity-header-bottom {
+    border-bottom: 3px solid rgb(94, 94, 94);
+}
+
+.activity-bottom {
+    border-bottom: 5px solid rgb(124, 124, 124);
+}
+
+.user-headers h4 {
+    color: rgb(124, 124, 124)
+}
+
+.user-info h4 {
+    color: rgb(179, 150, 14) !important;
+}
+
+label {
+    display: inline-block;
+    text-align: right;
+}
