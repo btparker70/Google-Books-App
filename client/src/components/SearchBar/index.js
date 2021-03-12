@@ -1,13 +1,12 @@
 import React from "react";
 import "./style.css";
-import Form from "../Form"
+import { InputText, FormBtn } from "../Form";
 
 function SearchBar() {
   return (
     <div>
-      <form>
-
-      </form>
+      <InputText />
+      <FormBtn>Search</FormBtn>
     </div>
   );
 }
